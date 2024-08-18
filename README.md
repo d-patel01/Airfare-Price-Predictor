@@ -6,7 +6,7 @@ This project focuses on predicting airfare prices using machine learning techniq
 
 ## Objectives
 
-- The objective is the make accurate airfare predictions based on existing known airfare prices.
+- The objective is the make accurate airfare predictions based on existing airfare prices.
 
 ## Methodology
 
